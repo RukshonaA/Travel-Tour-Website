@@ -28,6 +28,6 @@ Technologies Used
 
 
 
-- [Your Name](https://github.com/RukshonaA)
+- [RukshonaA](https://github.com/RukshonaA)
 
 Feel free to contact me if you have any questions or suggestions!
